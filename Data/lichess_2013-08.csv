@@ -1,0 +1,34 @@
+move 1,move 2,move 3,move 4,move 5,move 6,move 7,move 8,move 9,move 10,move 11,move 12
+d4 d5,e4 dxe4,Nc3 Nf6,f3 exf3,Nxf3 Bf5,Bc4 e6,Bg5 Be7,Ne5 Nbd7,Qf3 c6,O-O-O O-O,g4 Bg6,h4 Bb4
+d4 d5,e4 dxe4,Nc3 Nf6,f3 exf3,Qxf3 c6,Be3 g6,h3 Bg7,O-O-O O-O,Bg5 Nbd7,Qf4 e6,Bh6 Bxh6,Qxh6 Nb6
+d4 d5,e4 dxe4,Nc3 Nf6,f3 exf3,Nxf3 Bg4,h3 Bxf3,Qxf3 Nc6,Bb5 e6,Bxc6+ bxc6,Qxc6+ Ke7,Be3 Rb8,d5 Rb6
+d4 d5,e4 dxe4,Nc3 Nf6,f3 exf3,Qxf3 c6,Bc4 Bg4,Qf2 e6,Be3 Be7,Nf3 O-O,O-O-O Qc7,h3 Bh5,g4 Bg6
+d4 d5,e4 dxe4,Nc3 Nf6,f3 exf3,Qxf3 e6,Be3 Be7,O-O-O O-O,Bd3 c6,Ne4 Nbd7,Nh3 Qa5,Kb1 Nd5,Bd2 Qb6
+d4 d5,e4 dxe4,Nc3 Nf6,f3 exf3,Nxf3 Nbd7,Bd3 e6,O-O Bb4,Ne5 Bxc3,bxc3 O-O,Qf3 c5,Qg3 cxd4,cxd4 Qb6
+d4 d5,e4 dxe4,Nc3 Nf6,f3 exf3,Qxf3 e6,Be3 Bb4,Bg5 Nc6,O-O-O Nxd4,Qd3 c5,Be3 e5,Bxd4 cxd4,Qb5+ Nd7
+d4 d5,e4 dxe4,Nc3 Nf6,f3 exf3,Nxf3 e6,Bd3 c5,Bb5+ Bd7,Bf4 a6,Bxd7+ Nbxd7,d5 exd5,Nxd5 Be7,Nc7+
+d4 d5,e4 dxe4,Nc3 Nf6,f3 exf3,Qxf3 e6,Be3 c6,O-O-O Be7,Bc4 Nbd7,Nge2 Nb6,Bb3 Nbd5,Nxd5 Nxd5,Qg3 O-O
+d4 d5,e4 dxe4,Nc3 Nf6,f3 exf3,Qxf3 e6,Bg5 Bb4,O-O-O Bxc3,Qxc3 h6,Bxf6 Qxf6,Qxc7 Nd7,Nf3 O-O,Bd3 Nb6
+d4 d5,e4 dxe4,Nc3 Nf6,f3 exf3,Nxf3 e6,Bg5 Bb4,Qd2 O-O,O-O-O h6,Be3 Ne4,Qd3 Nxc3,bxc3 Bd6,Ne5 Bxe5
+d4 d5,e4 dxe4,Nc3 Nf6,f3 exf3,Qxf3 Nc6,Bb5 Bd7,Nge2 e6,O-O Bd6,Nf4 Bxf4,Bxf4 O-O,Rad1 Nb4,Bd3
+d4 d5,e4 dxe4,Nc3 Nf6,f3 exf3,Nxf3 e6,Bd3 Bb4,O-O O-O,Bg5 h6,Bh4 Be7,Qe1 Nc6,Rd1 Kh8,Bxf6 Bxf6
+d4 d5,e4 dxe4,Nc3 Nf6,f3 exf3,Nxf3 Nc6,Be3 Bf5,Qd2 e6,Bb5 Bd6,O-O-O Qe7,Bf4 Bxf4,Qxf4 Rd8,Ne5
+d4 d5,e4 dxe4,Nc3 Nf6,f3 exf3,Qxf3 h6,Bf4 c6,O-O-O e6,Qg3 Nh5,Qe3 Nxf4,Qxf4 Be7,Bd3 Bg5,d5 Bxf4+
+d4 d5,e4 dxe4,Nc3 Nf6,f3 exf3,Qxf3 Nc6,Be3 e6,O-O-O Bd6,Bb5 Bd7,Nge2 O-O,Rdf1 a6,Bd3 Nb4,a3 Nxd3+
+d4 d5,e4 dxe4,Nc3 Nf6,f3 exf3,Qxf3 Nc6,Be3 Nb4,O-O-O c6,h3 Nfd5,Nxd5 cxd5,Kb1 Bf5,Bb5+ Bd7,Bxd7+ Qxd7
+d4 d5,e4 dxe4,Nc3 Nf6,f3 exf3,Qxf3 h6,Bd2 Bg4,Qe3 e6,h3 Bf5,O-O-O Qd5,g4 Qxh1,gxf5 Be7,fxe6 fxe6
+d4 d5,e4 dxe4,Nc3 Nf6,f3 exf3,Nxf3 Bg4,h3 Bxf3,Qxf3 e6,Qxb7 Nbd7,Bb5 Bb4,Bxd7+ Nxd7,Qxb4 Qh4+,Kf1 Rb8
+d4 d5,e4 dxe4,Nc3 Nf6,f3 exf3,Nxf3 Nc6,Bc4 e6,O-O Bb4,a3 Bxc3,bxc3 O-O,Qd3 Nxd4,cxd4 Nd5,Ng5 Kh8
+d4 d5,e4 dxe4,Nc3 Nf6,f3 exf3,Nxf3 Bg4,h3 Bxf3,Qxf3 c6,Be3 e6,O-O-O Bd6,Bf4 Bxf4+,Qxf4 O-O,Bd3 Nh5
+d4 d5,e4 dxe4,Nc3 Nf6,f3 exf3,Qxf3 e6,Be3 Be7,O-O-O c6,Bc4 O-O,Nge2 Nbd7,g4 Nb6,Bd3 Nbd5,Nxd5 Qxd5
+d4 d5,e4 dxe4,Nc3 Nf6,f3 exf3,Qxf3 e6,Bf4 Nc6,Bb5 Bd7,Nge2 a6,Ba4 b5,Bb3 Nxd4,Qg3 Nxe2,Nxe2 Rc8
+d4 d5,e4 dxe4,Nc3 Nf6,f3 exf3,Qxf3 c6,Be3 Bg4,Qf4 Qd6,Qf2 e5,h3 Bh5,g4 Bg6,dxe5 Qxe5,O-O-O Nbd7
+d4 d5,e4 dxe4,Nc3 Nf6,f3 exf3,Nxf3 Bg4,h3 Bh5,g4 Bg6,Ne5 Qd6,Bg2 c6,Bf4 Na6,a3 Nc7,Nxg6 Qe6+
+d4 d5,e4 dxe4,Nc3 Nf6,f3 exf3,Qxf3 Qxd4,Be3 Qg4,O-O-O Qxf3,Nxf3 c6,Bc4 Bg4,Ne5 Bxd1,Bxf7+ Kd8,Rxd1+ Kc7
+d4 d5,e4 dxe4,Nc3 Nf6,f3 exf3,Qxf3 e6,Bf4 Bb4,O-O-O Bxc3,bxc3 O-O,Bc4 c6,Be5 Nd5,Qg3 f6,Bxd5 fxe5
+d4 d5,e4 dxe4,Nc3 Nf6,f3 exf3,Nxf3 Bg4,h3 Bh5,g4 Bg6,Ne5 e6,Nxg6 hxg6,Bg2 c6,Bf4 Bd6,Qf3 Nd5
+d4 d5,e4 dxe4,Nc3 Nf6,f3 exf3,Nxf3 e6,Bd3 Nc6,Be3 Be7,Qd2 Ng4,O-O-O Nxe3,Qxe3 Bf6,Kb1 Nxd4,Nxd4 Bxd4
+d4 d5,e4 dxe4,Nc3 Nf6,f3 exf3,Nxf3 Nc6,Bd3 Nxd4,Nxd4 Qxd4,Bb5+ Bd7,Qxd4 O-O,Bxd7+ Rxd7,Qxa7 Rd6,O-O e5
+d4 d5,e4 dxe4,Nc3 Nf6,f3 exf3,Nxf3 Bg4,Bd3 Nc6,Be3 e6,O-O Be7,h3 Bxf3,Qxf3 O-O,Rad1 Qd7,Ne4 Nxe4
+d4 d5,e4 dxe4,Nc3 Nf6,f3 exf3,Nxf3 e6,Bd3 Nc6,Be3 Be7,Qe2 O-O,O-O-O Ng4,Bf4 f5,h3 Nf6,Be5 Nxe5
+d4 d5,e4 dxe4,Nc3 Nf6,f3 exf3,Qxf3 Bg4,Qxb7 Nbd7,Nb5 Qb8,Nxc7+ Kd8,Qc6 Qxc7,Qxa8+ Nb8,Bd2 e6,Be2 Bf5
